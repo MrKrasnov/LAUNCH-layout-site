@@ -131,4 +131,16 @@ button{
 
     /* margin: 20px 25%; */
 }
-    
+footer p{
+    margin-top: 80px;
+    color: grey;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+footer p span{
+ color: #e36464;
+}
+ .img_border{
+ margin: auto 39%;
+}
