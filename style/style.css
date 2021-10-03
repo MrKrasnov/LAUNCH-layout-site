@@ -8,6 +8,10 @@ main{
 .section{
     padding: 0 5%;
 }
+.flex{
+    display: flex;
+    justify-content: center;
+}
 .logo{
     padding-top: 50px;
 }
@@ -51,3 +55,21 @@ main .logo div{
     color: #e36464;
     padding-left: 5px;
 }
+.time{
+    display: flex;
+    justify-content: center;
+
+    color:#fff;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 20px;
+}
+.time div span{
+    color: grey
+}
+.social_p{
+    color:#fff;
+}
+.social{
+    flex-direction: column;
+}
+    
