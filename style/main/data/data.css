@@ -1,0 +1,20 @@
+.time{
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+
+    color:#fff;
+    font-family: "Work Sans", Arial, sans-serif;
+    font-size: 40px;
+}
+.time div{
+    margin: 0 10px;
+    padding: 20px 30px;
+    text-align: center;
+    background: rgb(43, 42, 42);
+    border-bottom: 2.5px solid #e36464;
+}
+.time div span{
+    color: grey;
+    font-size: 20px;
+}

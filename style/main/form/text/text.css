@@ -1,0 +1,8 @@
+.social_p{
+    color:#fff;
+    font-size: 20px;
+    line-height: 1.5;
+}
+.social{
+    flex-direction: column;
+}
