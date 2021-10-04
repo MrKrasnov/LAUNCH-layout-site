@@ -1,0 +1,49 @@
+@media (max-width: 800px) {
+    .section{
+        padding: 0;
+    }
+}
+@media (max-width: 700px) {
+    .main_text{
+        font-size: 30px;
+    }
+}
+@media (max-width: 600px) {
+    .time{
+        flex-direction: column;
+    }
+    .time div{
+        margin: 10px 25%;
+    }
+    .mob_logo{
+        display: none;
+    }
+    footer p{
+        margin: 10px 0;
+    }
+}
+@media (max-width: 400px) {
+    .main_p{
+        font-size: 15px;
+    }
+    .main_text{
+        font-size: 25px;
+    }
+    footer p{
+        font-size: 10px;
+    }
+}
+@media (max-width: 300px) {
+    .main_p{
+        font-size: 10px;
+    }
+    .main_text{
+        font-size: 15px;
+    }
+    input {
+        padding-right: 30px;
+    }
+    .social_p{
+        font-size: 15px;
+    }
+}
