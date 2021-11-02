@@ -5,11 +5,12 @@ main .logo a{
     color: #fff;
     font-size: 25px;
     font-weight: bold;
+    text-transform: uppercase;
 }
 main .logo div{
     display: flex;
     justify-content: center;  
 }
 .logo{
-    padding-top: 50px;
+    padding-top: 70px;
 }

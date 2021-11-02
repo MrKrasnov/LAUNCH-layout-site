@@ -1,7 +1,11 @@
 .social_p{
+    font-family: "Work Sans", Arial, sans-serif;
     color:#fff;
     font-size: 20px;
     line-height: 1.5;
+}
+.social_p_margin{
+    margin-bottom: 45px;
 }
 .social{
     flex-direction: column;

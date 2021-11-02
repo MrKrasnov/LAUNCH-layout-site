@@ -4,3 +4,7 @@
     font-style: normal; 
     font-weight: normal; 
     } 
+@font-face {
+    font-family: "Work-Sans-light";
+    src: url("./WorkSans-Light.ttf") format("truetype");
+} 

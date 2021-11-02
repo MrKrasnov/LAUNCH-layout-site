@@ -1,11 +1,12 @@
 .main_text{
-    font-family: "Work Sans", Arial, sans-serif;
+    font-family: "Work-Sans-light", Arial, sans-serif;
     font-size: 60px;
     font-weight: 300;
     line-height: 1.5;
     color: #fff;
-
-    margin-top: 50px;
+    margin: 0;
+    margin-top: 90px;
+    margin-bottom: 20px;
     display: flex;
     justify-content: center;  
 }
@@ -15,10 +16,9 @@
     font-weight: 300;
     line-height: 1.5;
     color: #fff;
-
-    margin-top: 50px;
     display: flex;
     justify-content: center; 
+    margin-bottom: 30px;
 }
 .main_p span{
     color: #e36464;
