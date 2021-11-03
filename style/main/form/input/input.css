@@ -25,4 +25,12 @@ button{
     border-top-left-radius: 0%;
     border-bottom-left-radius: 0%;
     outline: none;
+    transition-property: background-color, border;
+    transition-duration: 0.5s;
+}
+button:hover{
+    cursor: pointer;
+    border: solid 1px #c29898;
+    border-left: 0 solid #c29898;
+    background-color: #c29898;
 }
